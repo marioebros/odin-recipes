@@ -1,0 +1,46 @@
+body {
+    background-color: #404040;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: black;
+    background-color:whitesmoke;
+}
+
+img {
+    height: auto;
+    width: 700px;
+    background-color: gray;
+}
+
+a, h2, h3, h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+ul, li, ol {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
+
+.main {
+    color: black;
+    background-color: #404040 
+}
+
+.bottom {
+    color: black;
+    background-color: #404040
+}
